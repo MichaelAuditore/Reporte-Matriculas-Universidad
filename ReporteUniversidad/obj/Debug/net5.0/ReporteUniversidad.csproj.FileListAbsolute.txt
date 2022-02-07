@@ -1,0 +1,16 @@
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ReporteUniversidad.exe
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ReporteUniversidad.deps.json
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ReporteUniversidad.runtimeconfig.json
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ReporteUniversidad.runtimeconfig.dev.json
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ReporteUniversidad.dll
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ref\ReporteUniversidad.dll
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\bin\Debug\net5.0\ReporteUniversidad.pdb
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.csproj.AssemblyReference.cache
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.AssemblyInfoInputs.cache
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.AssemblyInfo.cs
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.csproj.CoreCompileInputs.cache
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.dll
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ref\ReporteUniversidad.dll
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.pdb
+C:\Users\para801589\OneDrive - SIIGO SAS\Documentos\UNAD\Introducción a la programación\Tarea Final\ReporteUniversidad\ReporteUniversidad\obj\Debug\net5.0\ReporteUniversidad.genruntimeconfig.cache
